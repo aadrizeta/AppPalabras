@@ -23,4 +23,9 @@ public class   PalabraRepository {
             mpalabraDAO.insert(palabra);
         });
     }
+    void delete(Palabra palabra){
+        PalabraDB.databaseWriteExecutor.execute(() -> {
+          mpalabraDAO.deleteAll();
+        });
+    }
 }

@@ -5,4 +5,6 @@
     <color name="buttonLabel">#FFFFFF</color>
     <color name="addButtonBackground">#2DEB37</color>
     <color name="saveButtonBackground">#53957a</color>
+    <color name="backgroundMain">#193A88</color>
+    <color name="palabraItemsBackground">#ad934d</color>
 </resources>

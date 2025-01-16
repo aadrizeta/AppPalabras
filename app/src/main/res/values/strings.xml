@@ -4,4 +4,6 @@
     <string name="hint_word">Añadir Palabra...</string>
     <string name="button_save">Guardar</string>
     <string name="empty_not_saved">No se puede guardar una palabra vacía</string>
+    <string name="saved">Palabra guardada</string>
+    <string name="titulo_main">Lista de Palabras</string>
 </resources>
